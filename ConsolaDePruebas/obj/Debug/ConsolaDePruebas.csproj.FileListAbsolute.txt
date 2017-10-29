@@ -1,0 +1,16 @@
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe.config
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\EntityFramework.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\GestionDePersonas.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\InterfacesLaboratorio.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\Inventario.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\GestionDePersonas.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\InterfacesLaboratorio.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\Inventario.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\EntityFramework.xml
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csprojResolveAssemblyReference.cache
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb

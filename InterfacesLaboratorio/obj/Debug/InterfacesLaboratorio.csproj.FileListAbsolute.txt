@@ -1,0 +1,5 @@
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\InterfacesLaboratorio\bin\Debug\InterfacesLaboratorio.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\InterfacesLaboratorio\bin\Debug\InterfacesLaboratorio.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\InterfacesLaboratorio\obj\Debug\InterfacesLaboratorio.csprojResolveAssemblyReference.cache
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\InterfacesLaboratorio\obj\Debug\InterfacesLaboratorio.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\InterfacesLaboratorio\obj\Debug\InterfacesLaboratorio.pdb

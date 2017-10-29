@@ -1,0 +1,9 @@
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\bin\Debug\Inventario.dll.config
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\bin\Debug\Inventario.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\bin\Debug\Inventario.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\bin\Debug\EntityFramework.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\bin\Debug\EntityFramework.xml
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\obj\Debug\Inventario.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\Inventario\obj\Debug\Inventario.pdb

@@ -1,0 +1,14 @@
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\GestionDePersonas.dll.config
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\GestionDePersonas.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\GestionDePersonas.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\EntityFramework.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\EntityFramework.SqlServer.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\InterfacesLaboratorio.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\Inventario.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\InterfacesLaboratorio.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\Inventario.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\EntityFramework.xml
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\bin\Debug\EntityFramework.SqlServer.xml
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\obj\Debug\GestionDePersonas.csprojResolveAssemblyReference.cache
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\obj\Debug\GestionDePersonas.dll
+E:\Cibertec\Visual Studio 2015 Developer\Examen 29_10_2017\MuestraLaboratorio\GestionDePersonas\obj\Debug\GestionDePersonas.pdb
